@@ -1,4 +1,4 @@
-# Problem Solving Challange 2: Factorial
+# Problem Solving Challange: Factorial
 
 num = 4
 

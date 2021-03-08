@@ -1,4 +1,4 @@
-# Problem Solving Challange 1: Reverse string
+# Problem Solving Challange: Reverse string
 
 input_str = "helloworld"
 
