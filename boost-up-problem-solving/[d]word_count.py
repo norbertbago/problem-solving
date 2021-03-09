@@ -6,5 +6,3 @@ def WordCount(str):
     return len(str)
 
 print(WordCount(str))
-
-print("Changes over")
