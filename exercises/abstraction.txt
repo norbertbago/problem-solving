@@ -1,0 +1,28 @@
+Abstract Thinking in Practice Example 
+
+
+Skola
+    Zakladna skola
+        Subjekty
+            Pracovnik
+            Ucitel 
+            Ziacka 
+            Ziak 
+        Objekty
+            Tabula 
+            Nabytok 
+            Budova 
+            .... 
+    Stredna skola 
+    Vysoka skola 
+
+Ministerstvo 
+    Ministestvo Skolstva 
+        Osoby
+            Minister 
+            Pracovnici 
+            Ucitelia
+    Ministerstvo zdravotnictva 
+    Ministerstvo prace, social., rodiny
+    Ministestvo hospodarstva 
+

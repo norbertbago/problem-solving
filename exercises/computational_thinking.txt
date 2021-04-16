@@ -1,0 +1,51 @@
+Clean Home
+
+
+1. Decomposition:
+---------------------
+
+Clean Home involves:
+
+1. Clean bedroom
+2. Clean hall
+3. Clean kitchen
+4. Clean children's room 
+5. Clean bathroom
+
+2. Pattern Recognition
+-----------------------
+
+Clean House involves cleaning all room in house. All room need to:
+
+TASK:
+
+1. do the hovering
+2. do the dusting
+3. cleaning floor
+4. cleaning things in rooom
+
+3. Data Representation and Abstraction
+---------------------------------------
+
+Important:
+1. Inforamtion about flat
+2. Clearning tools 
+4. Size of Flat
+5. Map of flat 
+
+4. Algorithms 
+-------------------
+
+Set of intruction in some order : 
+1. Clean Children room 
+2. Clean floor 
+3. Clean bathroom 
+4. Clean kitchen 
+5. Clean Living room 
+6. Clean Room 
+7. Clean floor 
+8. Clean dust 
+
+
+
+
