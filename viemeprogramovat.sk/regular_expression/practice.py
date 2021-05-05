@@ -9,7 +9,7 @@ result3 = re.finditer(r'o', string)
 
 
 # print(result)
-# print(result.group())
+# print(result.group())  groups() use with () in regex
 # print(result.start())
 # print(result.end())
 # print(result.span())
@@ -32,3 +32,11 @@ print(result5)
 # re.split(r'[ ;:]')  - split on more character than single split method
 # re.compile()
 
+b = '144445 1444566665'
+result6 = re.findall(r'1.*5', b)
+print(result6)
+
+
+
+# napad pre vyskusanie regular expression na vieme programovat 
+# re.findall(r'[\d]{3}-[\d]{4}', text)
