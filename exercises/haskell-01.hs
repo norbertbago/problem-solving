@@ -14,6 +14,8 @@ to_int a = round a
 
 -- Skladanie funcii
 -- (one_or_two . to_int . square) 5
+complex_func :: Float -> Float -> Bool
+complex_func a b = (one_or_two . to_int) (pyth a b) 
 
 a_div_b :: Integer -> Integer -> String
 a_div_b a b = do {

@@ -27,7 +27,48 @@ print(t3)
 # n = input("AHOJ: ")
 # print(n)
 
+a = slice(1,2,3)
+print("ahoj"[a])
 
+a = "ahoj"
+a = dir(a)
+print(a)
+
+a = divmod(5, 3)
+print(a)
+
+x = 1
+print(eval('x + 1'))
+
+
+print(format(123, "f"))
+
+a = [1,2,3,4,5,6,7,8,9]
+print(a.index(5))
+
+b = a.copy()
+print(b)
+
+b.reverse()
+print(b)
+
+b.pop()
+print(b)
+
+b.remove(5)
+print(b)
+
+b.insert(5, 2)
+print(b)
+
+a.extend(b)
+print(a)
+
+a.sort()
+print(a)
+
+a.clear()
+print(a)
 
 
 
