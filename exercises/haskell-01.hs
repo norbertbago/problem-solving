@@ -23,8 +23,8 @@ a_div_b a b = do {
       then (show a) ++ " je delitelne cislom " ++ (show b)
       else (show a) ++ " nie je delitelne cislom " ++ (show b) };
 
-my_even :: Integer -> Bool
-my_even n = (mod) n 2 == 0
+
+
 
 
 
