@@ -1,6 +1,6 @@
 import timeit
 
-n = 3
+n = 11
 
 def function(columns):
     for i in range(1-columns, 2*columns):

@@ -12,4 +12,6 @@ def DashInsert(str1):
     return '-'.join(num_list)
 
 print(DashInsert(str1))
-    
+
+
+# functional programmin 

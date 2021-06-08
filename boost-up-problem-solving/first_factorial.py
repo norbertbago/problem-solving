@@ -1,4 +1,5 @@
 # Problem Solving Challange: Factorial
+from functools import reduce
 
 num = 4
 
@@ -19,3 +20,8 @@ def FirstFactorial1(num):
 
 print(FirstFactorial(num))
 print(FirstFactorial1(num))
+
+# functional paradigma 
+
+print(reduce(lambda x,y : x*y, range(4,0, -1)))
+

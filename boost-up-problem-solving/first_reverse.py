@@ -33,3 +33,11 @@ def FirstReverse2(input_str):
 print(FirstReverse(input_str))
 print(FirstReverse1(input_str))
 print(FirstReverse2(input_str))
+
+# functional paradigma
+
+# first solution
+print(''.join(list(input_str[i] for i in range(len(input_str)-1,-1,-1))))
+
+# second solution
+print(input_str[-1::-1])

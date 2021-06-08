@@ -7,10 +7,9 @@
 
 # /} bago.solution
 
-
 columns = 3
 
-for i in range(1-columns, 2*columns):
+for i in range(1-columns, columns):
     print(' '.join(map(str, range(1, columns-(abs(i))+1))))
 
 

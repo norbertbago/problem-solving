@@ -15,7 +15,7 @@ print(result)
     
 
 # Functional programming in Python 
-result = sum(range(1,101))**2 - sum(list(map(lambda x : x**2, range(1,101))))
-print(result)
+print(sum(range(1,101))**2 - sum(list(map(lambda x : x**2, range(1,101)))))
+
 
 

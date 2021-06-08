@@ -13,4 +13,6 @@ welcome_window()
 game = default_game(rows, colums)
 print_game(game, rows, colums)
 
+# input(str("Prajete si spusit hru(y/n)?"))
+
 
