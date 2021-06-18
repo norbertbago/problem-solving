@@ -1,0 +1,32 @@
+-- CREATE TABLE
+-- DROP TABLE
+
+CREATE TABLE IF NOT EXISTS student (
+	student_id SERIAL PRIMARY KEY,
+	username VARCHAR(128) NOT NULL 
+);
+
+DROP TABLE IF NOT EXISTS student;
+
+CREATE TABLE IF NOT EXISTS "Student" (
+	student_id SERIAL PRIMARY KEY,
+	"Username" VARCHAR(128) NOT NULL
+) 
+
+DROP TABLE IF NOT EXISTS "Student"; 
+
+CREATE TABLE IF NOT EXISTS employee (
+	employee_id SERIAL PRIMARY KEY,
+	user_name VARCHAR(128) NOT NULL,
+	password VARCHAR(128) NOT NULL,
+	email VARCHAR(128),
+	is_new BOOLEAN,
+	born_year INTEGER NOT NULL,
+	start_work TIMESTAMP NOT NULL,
+	salary INTEGER NOT NULL
+);
+
+DROP TABLE "Student";
+DROP TABLE student;
+DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS employee;
